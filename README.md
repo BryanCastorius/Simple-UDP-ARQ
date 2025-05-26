@@ -1,4 +1,4 @@
-﻿# Simple-UDP-ARQ
+﻿# Simple UDP with ARQ Implementation in C
 
 My program implements a UDP-based file transfer between a client and a server using
 stop-and-wait ARQ. The server creates a socket (family AF_INET, type SOCK_DGRAM,
